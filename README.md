@@ -1,0 +1,1 @@
+# This is a simple AI Research conducted on the integration of Semantic Router with a simple Retrieval-Augmented Generator (RAG) 
